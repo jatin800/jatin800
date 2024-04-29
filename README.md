@@ -1,5 +1,7 @@
+[![MasterHead](https://media.tenor.com/i_K3zWsgcG8AAAAj/hacker-pepe.gif)]
 <h1 align="center">Hi 👋, I'm Jatin Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.webp?cid=ecf05e47jhxaxh1g5d05xykvo4m9h2v06lu6cwzfq1yv0vzf&ep=v1_gifs_search&rid=giphy.webp&ct=g"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatin800&label=Profile%20views&color=0e75b6&style=flat" alt="jatin800" /> </p>
 
