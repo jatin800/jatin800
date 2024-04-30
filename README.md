@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **jatinkumar84060@gmail.com**
 
-- 📄 Know about my experiences [As a fresher, I may not have extensive work experience, but I believe I possess certain key strengths that would make me an asset to](As a fresher, I may not have extensive work experience, but I believe I possess certain key strengths that would make me an asset to)
+- 📄 Know about my experiences [As a fresher, I may not have extensive work experience, but I believe I possess certain key strengths that would make me an asset to]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
